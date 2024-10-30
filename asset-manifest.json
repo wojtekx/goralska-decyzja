@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goralska-decyzja/static/css/main.756f275b.css",
+    "main.js": "/goralska-decyzja/static/js/main.f542ef0e.js",
+    "index.html": "/goralska-decyzja/index.html",
+    "main.756f275b.css.map": "/goralska-decyzja/static/css/main.756f275b.css.map",
+    "main.f542ef0e.js.map": "/goralska-decyzja/static/js/main.f542ef0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756f275b.css",
+    "static/js/main.f542ef0e.js"
+  ]
+}
